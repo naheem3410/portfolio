@@ -9,3 +9,11 @@ h2.header{
 span.project-skills{
     font-weight: bold;
 }
+ul.contact{
+    list-style-type: none;
+    text-align: center;
+}
+li.contact{
+    display: inline;
+    margin: 5px;
+}
