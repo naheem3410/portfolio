@@ -1,0 +1,11 @@
+img.rounded-image{
+    border-radius: 50%;
+    display: block;
+    margin: 0px auto;
+}
+h2.header{
+    text-align: center;
+}
+span.project-skills{
+    font-weight: bold;
+}
